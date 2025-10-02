@@ -2,3 +2,5 @@
 /Backups
 .DS_Store
 /Media/peaks
+*.rpp-bak
+*.reapeaks
